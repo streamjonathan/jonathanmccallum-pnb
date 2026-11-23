@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+ایہ سائٹ 18 سال توں گھٹ عمر والے لوکاں لئی نئیں۔ ایہ یسوع تے ایمان بارے گل کردی اے، تے ایہ مذہبی مواد اے، ایس لئی ایہ وڈیاں لئی لکھی گئی اے۔ جے تُسی 18 سال توں گھٹ عمر دے او، تے مہربانی کرکے ایتھے اپنی ذاتی معلومات نہ ونڈو، تے جوناتھن نوں نہ لکھو۔
+
+سپین وچ، قانون کہندا اے کہ 14 سال توں گھٹ عمر والے بچے نوں آن لائن ذاتی ڈیٹا ونڈن توں پہلاں اپنے والدین یا سرپرست دی رضامندی دی لوڑ اے۔ ایس سائٹ دا اپنا اصول ایس توں وی سخت اے: 18 سال توں گھٹ عمر، ایہ سائٹ تہاڈے لئی نئیں۔
 
 ## Changes
 
