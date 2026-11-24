@@ -3,7 +3,7 @@ title: "موسیقی تے ایمان"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/worshipper_kajal_masih.jpg
 ---
 
 میں انسٹاگرام تے موسیقاراں نوں سُنݨ وچ بہوں ویلا لاندا واں۔ ایہ اوہناں وچوں کجھ نیں جیہناں نوں میں اج کل سُن رہیا واں۔
@@ -14,70 +14,68 @@ shareImage: /images/music-faith/sonreal.jpg
 
 اوہ سارے عبادت دے گیت نہیں گا رہے۔ اوہناں وچوں بہتے بس زندگی بارے گا رہے نیں، تے ایمان اوہدا حصہ اے۔ ایہ اوہ گل اے جو مینوں اوہناں بارے پسند اے۔ انسٹاگرام تے گیت ویکھں لئی کسے کارڈ تے ٹیپ کرو۔
 
-میں SonReal دے نویں گیت تے رد عمل دی ویڈیو وی بنائی اے۔ تُسی ایہنوں ایتھے ویکھ سکدے او:
-
-[SonReal دی نویں ویڈیو تے میرا رد عمل](https://www.youtube.com/shorts/wePjZMr6beE)
+ایہ گیت پنجابی وچ نیں۔ ایہ پنجابی وچ گاؤݨ والے موسیقار نیں — کجھ عبادت دے گیت گا رہے نیں، کجھ زندگی بارے گا رہے نیں، تے ایمان اوہدا حصہ اے۔
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">اک مزاحیہ، امید بھریا ریپ، چنگی موسیقی نوں سُنݨدیاں ای پچھانݨ بارے۔ کتاب نوں اوہدے کور توں نہ پرکھو۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Ddypr71zM-9/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/worshipper_kajal_masih.jpg" alt="Kajal Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Kajal Masih</span>
+<span class="ig-card__note">مسیحی گیت گا رہی اے — ‘Happy Sunday’۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">“میں تہاڈے لئی سیٹ بچا لواں گا۔” اک نرمی والا گیت، تے اک کھلی کرسی۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DH-1kKmSyH8/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/gagandeep_hans_97.jpg" alt="Gagandeep Hans" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Gagandeep Hans</span>
+<span class="ig-card__note">باہر مسیحی عقیدت دا گیت گا رہیا اے۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">اوہدا گیت “Notice” آخر کار آ گیا اے، اوہدے پہلی وار وجاؤں توں اک سال توں ودھ بعد۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DHbRiMKPRkk/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/twinkle_masih909.jpg" alt="Twinkle Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Twinkle Masih</span>
+<span class="ig-card__note">عبادت دا گیت گا رہی اے۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">“Your Heart in the Fire” — شمال توں لو-فائی لوک، سچا، موسم زدہ، کچا۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DDd6aowNfLn/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/boby_bhatti.jpg" alt="Boby Bhatti" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Boby Bhatti</span>
+<span class="ig-card__note">‘جہرے یسوع نال جُڑے رہندے آ’ — مسیحی گیت۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">اوہنے پچھلے سال اپݨی زندگی خدا نوں دے دتی۔ ہُن اوہ اپݨی کہانی سُناؤݨا چاہندا اے، تے اوہدے وچ اوہدی حمد کرنا چاہندا اے۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DJ_tQIVvFXp/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/gospelsingerkiran.jpg" alt="Kiran Sabharwal" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Kiran Sabharwal</span>
+<span class="ig-card__note">‘Blessed geet’ گا رہی اے۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">اوہدا نواں گیت “Not Alone”، تے سان فرانسسکو وچ اک کمرہ ہر لفظ گا رہیا اے۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DKw6Y9uSUip/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/worshiper_akash_masih.jpg" alt="Akash Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Akash Masih</span>
+<span class="ig-card__note">کی بورڈ تے عبادت دا گیت۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">“Secret Fort” — چرچ دے پچھے بچپن دے دن، شام دیاں گھنٹیاں، بہترین دوست تے خیالی دنیا۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfEIAKozugU/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/worshiper_sahil_masih.jpg" alt="Sahil Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sahil Masih</span>
+<span class="ig-card__note">مائیک تے مسیحی گیت گا رہیا اے۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">لوقا 15 توں اک نواں گیت، گواچا پُتر۔ “Let Me Go”۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DO09JcrElxL/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/noorpaulmasih.jpg" alt="Noor Paul Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Noor Paul Masih</span>
+<span class="ig-card__note">عبادت دا گیت گا رہی اے۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">“یسوع مہربان اے۔ ٹور اک تحفہ اے۔” اوہدے گیت، گھر وچ وجائے گئے۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Ddp_UmdI3FN/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/angela_robin_official.jpg" alt="Angela Robin" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Angela Robin</span>
+<span class="ig-card__note">اوہدا نواں عبادت دا گیت ‘ZAMANE DI Rooh Te’۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">اوہدا گیت “keep going” — خواب جیہا ریٹرو یسوع موسیقی، ہُن آ گیا اے۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfPMKoYsOvZ/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/waliasaab17.jpg" alt="Walia Saab" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Walia Saab</span>
+<span class="ig-card__note">‘Yeshu Tu Chahida’ — پنجابی مسیحی گیت۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">“ہر کوئی کسے نوں جاݨدا اے جیہنوں یسوع بارے سُنݨ دی لوڑ اے۔”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Ddncj2KMhdi/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/meerab_sajjad_official.jpg" alt="Meerab Sajjad" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Meerab Sajjad</span>
+<span class="ig-card__note">عبادت دی آگو اے — پنجابی وچ گا رہی اے۔</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">اوہدی ذہنی صحت دے سفر بارے گیت۔ تے اوہ پاپ پنک وی نیں۔</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DcoIVo6sTSm/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/chandasaleemoffical.jpg" alt="Chanda Saleem" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Chanda Saleem</span>
+<span class="ig-card__note">مسیحی گیت (masihi geet) گا رہی اے۔</span></span>
 </a>
 </div>
 
